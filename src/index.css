@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Ayar";
+  src: url("fonts/ayar.ttf");
+}
+@font-face {
+  font-family: "Freight";
+  src: url("fonts/FreightDispProLight-Regular.ttf");
+}
