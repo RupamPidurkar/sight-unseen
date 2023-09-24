@@ -84,7 +84,7 @@ const Sectiontwo = () => {
           </div>
 
           <div className="flex flex-col flex-0.5 gap-1 flex-[0.5]">
-            <img src={img1} alt="" className=" h-72  " />
+            <img src={img1} alt="" className=" h-72 object-cover " />
             <p className="uppercase text-sm border border-1 mt-2 border-black w-fit px-2 rounded-full">
               fair report
             </p>
