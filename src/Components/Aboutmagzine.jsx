@@ -31,7 +31,7 @@ const Aboutmagzine = () => {
 
         <div className="flex absolute text-center justify-center md:top-12 md:left-[29%] top-9 left-[8%]">
           <span className="flex md:gap-4 gap-2 items-center">
-            <p className="text-right md:leading-4 leading-none md:text-[11px] text-[6px]">
+            <p className="text-right md:leading-4 leading-none md:text-[11px] text-[8px]">
               Sight Unseen co-founders <br /> Monica Khemsurov and <br /> Jill
               Singer
             </p>
@@ -44,7 +44,7 @@ const Aboutmagzine = () => {
           />
           <span className="flex md:gap-4 gap-2 items-center ">
             <p className="md:text-4xl text-xl text-[#203522] uppercase">Art,</p>
-            <p className="text-left md:leading-4 leading-none md:text-[11px] text-[6px]">
+            <p className="text-left md:leading-4 leading-none md:text-[11px] text-[8px]">
               Khemsurov is also a <br /> contributing editor for <br /> T
               magzine
             </p>

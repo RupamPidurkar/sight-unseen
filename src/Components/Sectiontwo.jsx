@@ -32,9 +32,9 @@ const Sectiontwo = () => {
         <div className="grid  md:grid-cols-2 lg:grid-cols-4 gap-4 content-center">
           <div className="flex flex-col flex-0.5 gap-2 ">
             <img
-              src={img1}
+              src={img4}
               alt=""
-              className=" md:w-96 md:h-auto h-72 object-cover"
+              className=" md:w-[355.8px] md:h-[533px]  object-cover"
             />
             <p
               className="uppercase text-sm border border-1 border-black
@@ -84,7 +84,7 @@ const Sectiontwo = () => {
           </div>
 
           <div className="flex flex-col flex-0.5 gap-1 flex-[0.5]">
-            <img src={img4} alt="" className=" h-72  " />
+            <img src={img1} alt="" className=" h-72  " />
             <p className="uppercase text-sm border border-1 mt-2 border-black w-fit px-2 rounded-full">
               fair report
             </p>
